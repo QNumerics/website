@@ -1,4 +1,4 @@
-Sitemap: qnumerics.org/sitemap.xml
+Sitemap: sitemap.xml
 
 User-agent: *
 Disallow:
